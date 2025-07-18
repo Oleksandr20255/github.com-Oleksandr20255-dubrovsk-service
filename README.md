@@ -1,1 +1,1 @@
-# dubrovsk-service
+# dubrovskyi-service
